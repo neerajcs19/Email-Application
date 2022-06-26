@@ -19,4 +19,4 @@ The sender email-id and password is required. The mail will be sent to particula
 #Assumptions and Dependencies These are some following assumptions:
 
 The system is having required configuration as well as Windows operating system.
-Full working of alpha mail Application is dependents on the availability of Internet connection.
+Internet connection is required to work this application properly
